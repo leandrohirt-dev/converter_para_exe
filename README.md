@@ -14,8 +14,8 @@ Projeto criado para demonstrar como criar interfaces modernas com Python e conve
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/leandrohirt-dev/system-monitor.git
-cd system-monitor
+git clone https://github.com/leandrohirt-dev/converter_para_exe.git
+cd converter_para_exe
 ```
 
 ### 2. Crie um ambiente virtual (Recomendado)
